@@ -46,6 +46,10 @@ in each Class mentioned (Employee, HouseHoldItem, GardenProduct and ElectricProd
 you get a copy of this list.
 This protects the modification of the original list. 
 
+The console messages from previous exercises were deleted to see
+the console message for this exercise only.
+The objects created were kept to be used in this exercise.
+
 The linked list activity is going to be in the repository:
  * solvd-1-block-homework-5-part-2
 

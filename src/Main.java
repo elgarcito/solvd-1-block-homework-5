@@ -19,9 +19,6 @@ Supplier: the one that sells the product.
 Client: the one that buys the product.
  */
 
-import abstractClasses.Product;
-import exceptions.AutoCloseableNoResource;
-import finalClasess.PayingRates;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

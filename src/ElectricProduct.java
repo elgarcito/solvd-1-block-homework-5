@@ -1,14 +1,12 @@
 
-import abstractClasses.Product;
-import createdInterfaces.*;
+import abstractclasses.Product;
+import createdinterfaces.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.text.DecimalFormat;
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.Objects;
 
 public class ElectricProduct extends Product implements Available, Costable, Priceable, Sellable, TransactionDateable {

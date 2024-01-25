@@ -1,12 +1,10 @@
-import abstractClasses.Person;
+import abstractclasses.Person;
 import exceptions.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
 
 public class Employee extends Person {
     private static final Logger LOGGER= LogManager.getLogger(Employee.class);
